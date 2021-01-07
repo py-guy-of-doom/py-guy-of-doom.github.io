@@ -1,8 +1,6 @@
-
 * {
   box-sizing: border-box;
 }
-
 .column {
   float: left;
   width: 50%;
@@ -19,13 +17,22 @@
 
 p{
     text-align: center;
+    color: cyan;
 }
 
 
 h1{
     text-align: center;
+    color: cyan;
 }
 
 h3{
-    text-align: center;
+    text-align: left  ;
+    color: white;
+}
+
+h2{
+  text-align: left;
+  color: white
+  ;
 }
